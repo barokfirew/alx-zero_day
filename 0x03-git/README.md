@@ -1,1 +1,1 @@
-this the read me file
+Git seems very good fro projects invoving groups. 
